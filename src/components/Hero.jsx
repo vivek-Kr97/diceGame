@@ -13,7 +13,7 @@ export default function Hero({toggleGame}) {
             <section className='flex flex-col items-center '>
                 <img 
                 className='h-[25vh] lg:h-[50vh]'
-                src="/src/assets/dices 1.png" alt="dice img"  
+                src="https://www.dropbox.com/scl/fi/q9hih1yzo9zmezyz8909b/dices-1.png?rlkey=xxptkvsfw97nc1gm6kn62fhaw&st=d8wbb5o8&dl=1" alt="dice img"  
                 
                 />
 
