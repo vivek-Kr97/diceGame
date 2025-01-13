@@ -13,7 +13,7 @@ export default function Hero({toggleGame}) {
             <section className='flex flex-col items-center '>
                 <img 
                 className='h-[25vh] lg:h-[50vh]'
-                src="https://s3-alpha-sig.figma.com/img/fce5/e0a7/6d3e531201ecd44ca61f9d27ff82e0ae?Expires=1736726400&Key-Pair-Id=APKAQ4GOSFWCVNEHN3O4&Signature=hKSeJzhtAamByioxx5haTJrT1Ols-4DZqSWYs-AdEFJK93Kw8vOfywkSGURd95IL6UQUkBx3h8JzbVKU~46NgRJn4ScGbpMs8mt2a97CV9WZ1gFH1wAlyE3wmLuEeb--KOJGGPCcX7llJxqvh9k6LpLcuWq9UaAeB89H9oUxm401ABYIPul6GAWRCy954L7TP6MbmH-htKfuHVWafS2GUhPQr5Kd1qaYEdTZwMAKHlwJFigYk-yLJbu3jzAg8d2r5VuvoyYFIqeMtVF-7FMfHcABMOE3rYw9xcMDzBhYsyKe~ogJHKMkp-lgHFfEUMd6RYESNa-Qp5CRmGiFY7Rn5A__" alt="dice img"  
+                src="/src/assets/dices 1.png" alt="dice img"  
                 
                 />
 
