@@ -6,6 +6,7 @@ const RollDice = ({rollDice , dice}) => {
   return (
     <main className='flex justify-center flex-col items-center'>
       <div>
+      
         <img 
         className='cursor-pointer '
         onClick={rollDice }
