@@ -9,6 +9,7 @@ const RollDice = ({rollDice , dice}) => {
         <img 
         className='cursor-pointer '
         onClick={rollDice }
+
         src={`/assets/dice_${dice}.png`}
         // /src/assets/dice_${dice}.png
         alt={`dice_${dice}`} />
